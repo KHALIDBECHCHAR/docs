@@ -36,7 +36,7 @@ children:
   - discussions
   - sponsors
   - communities
-  - pages
+
   - education
   - desktop
   - early-access
